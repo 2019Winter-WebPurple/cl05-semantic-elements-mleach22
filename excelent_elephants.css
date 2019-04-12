@@ -1,0 +1,26 @@
+/*
+* Megan Leach
+* April 12, 2019
+* HTML structure and other cool stuff
+*/
+
+/* The Universal Selector */
+
+* {
+
+}
+
+/* Body properties here */
+
+body {
+    width: 75%; /*centers the work on the page*/ 
+    margin: auto; /*specifies the margin space*/
+    background-color: mistyrose; /*this is the color of the background for the page*/
+    font-family: Times New Roman, serif; /*specifies the font*/
+}
+
+#elephant1 {width: 900px; height: 550px;}/*this is the format of image sizing*/
+
+header {background-color: azure;}
+main {background-color: lightgoldenrodyellow}
+footer {background-color: lightcoral}
